@@ -2,10 +2,10 @@
 Reto completado , implementacion de sistema para una empresa de tecnología.
 ## 1.Intro 
 El proyecto fue creado con **JAVA Y MYSQL**. Se trata de un sistema completo para el crecimiento de la empresa
-*Puede visitar el sitio de el siguiente enlace
+*Puede visitar el sitio de el siguiente enlace:
 ![SISTEMA DE VENTA](Image/sistema-venta.jpg)
 
-**Inspiración para segui con Back-End! ☺️**
+**Aprendizaje en  Back-End! ☺️**
 
 ##Contenido del proyecto 
 1. Login 
@@ -24,4 +24,6 @@ Visualización del historial todas tus ventas  y lo puedes descargar en formato 
 Actualizas los Datos de tu empresa ( RUC/ DNI , DIRECCION , TELEFONO , MENSAJE)
 8. Usuarios
 Sección donde puedes crear  usuarios nuevos y actualizar  usuarios existentes  incluyendo un rol ( Administrador o Asistente)
+
+
 Realizado por Samir Franco 💙 💻 
