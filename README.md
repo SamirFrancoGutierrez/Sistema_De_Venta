@@ -3,7 +3,7 @@ Reto completado , implementacion de sistema para una empresa de tecnología.
 ## 1.Intro 
 El proyecto fue creado con **JAVA Y MYSQL**. Se trata de un sistema completo para el crecimiento de la empresa
 *Puede visitar el sitio de el siguiente enlace
-![Clon de google](image/sistema-venta.jpg)
+![SISTEMA DE VENTA](Image/sistema-venta.jpg)
 
 **Inspiración para segui con Back-End! ☺️**
 
