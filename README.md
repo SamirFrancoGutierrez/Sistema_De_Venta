@@ -13,7 +13,7 @@ Seccion configurada para ingresar con un correo y clave.
 2. Nueva Venta
 Sistema parecido a  SUNAT , donde podras registrar tus ventas o servicios(ID , Productos , Cantidades , Graficos) , con fecha incluida. Además se mejoro para que nos brinde la informacion en formato PDF.
 3. Clientes 
-Puedes agregar , guardar o actualizar  a la base de Datos tus clientes nuevos o antiguos (DNI / RUC , Telefono , Dirección)
+Pueden agregar , guardar o actualizar  a la base de Datos tus clientes nuevos o antiguos (DNI / RUC , Telefono , Dirección)
 4. Proveedor
 Pestaña con las mismas funcionalidades pero para proveedores.
 5. Productos
